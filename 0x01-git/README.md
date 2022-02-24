@@ -1,4 +1,4 @@
-﻿<img src="https://github.com/RickStrahl/MarkdownMonster/raw/master/Art/MarkdownMonster_Icon_128.png" align="right" style="height: 64px"/>
+These instructions were given to me on downloading Markdown Monster
 
 # Welcome to Markdown Monster
 Here are a few tips to get you started:
